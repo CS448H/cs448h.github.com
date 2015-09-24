@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terra
+title: CS448H: domain-specific languages for graphics, imaging, and beyond
 ---
 
 Lecture Schedule
