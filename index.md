@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS448H: domain-specific languages for graphics, imaging, and beyond
+title: CS448H - domain-specific languages for graphics, imaging, and beyond
 ---
 
 Lecture Schedule
