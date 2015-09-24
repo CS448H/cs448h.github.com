@@ -18,3 +18,7 @@ Readings:
 Please take the [course survey](http://goo.gl/forms/kJ4qicMhrq).
 
 ### 9/24 -- Overview
+
+Readings:
+
+* [M. Fowler & T. White. Domain-Specific Languages](http://proquest.safaribooksonline.com/9780132107549?uicode=stanford)
