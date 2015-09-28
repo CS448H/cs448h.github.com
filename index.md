@@ -18,8 +18,17 @@ Readings:
 Please take the [course survey](http://goo.gl/forms/kJ4qicMhrq).
 
 ### 9/24 -- Overview
-=======
 
 Readings:
 
 * [M. Fowler & T. White. _Domain-Specific Languages_](http://proquest.safaribooksonline.com/9780132107549?uicode=stanford)
+
+
+### 9/29 -- Introduction to Lua
+
+Readings:
+
+* [R. Ierusalimschy, L. Henrique de Figueiredo, & W.  Celes. _The Evolution of Lua_](http://www.lua.org/doc/hopl.pdf)
+* [R. Ierusalimschy, L. Henrique de Figueiredo, & W.  Celes. _Passing a Language through the Eye of a Needle_](https://queue.acm.org/detail.cfm?id=1983083)
+* [Example Code From Today](example-1.lua)
+
