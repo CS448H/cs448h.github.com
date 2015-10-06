@@ -22,7 +22,7 @@ Please take the [course survey](http://goo.gl/forms/kJ4qicMhrq).
 ### 9/24 -- Overview
 
 * [Slides](build.pdf)
-* [Example Code From Today](calc1.py, calc2.py)
+* Example Code From Today, [calc1.py](calc1.py), [calc2.py](calc2.py)
 
 Readings:
 
