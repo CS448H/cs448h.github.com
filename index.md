@@ -10,6 +10,8 @@ TTh 1:30--2:50 in Gates 392
 
 ### 9/22 -- Introduction
 
+* [Slides](intro.pdf)
+
 Readings:
 
 * [J Bentley. _Little Languages_](little-languages.pdf)
@@ -18,6 +20,9 @@ Readings:
 Please take the [course survey](http://goo.gl/forms/kJ4qicMhrq).
 
 ### 9/24 -- Overview
+
+* [Slides](build.pdf)
+* [Example Code From Today](calc1.py, calc2.py)
 
 Readings:
 
