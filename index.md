@@ -45,3 +45,12 @@ Readings:
 
 ### Assignment 1 - _due 10/13_
 Assignment 1 is to build a compiler for regular expressions using Lua and Terra. The starter code and assignment description is [in the course GitHub org](http://github.com/CS448H/assignment1). When you're ready to start, start the template repo for your submission by following [this invite link](https://classroom.github.com/assignment-invitations/349e75dcf83aeebb9c0fefbc62a42dbf) (you'll need to be logged into your GitHub account).
+
+### 10/6 -- Designing intermediate representations
+
+* [Slides](IRs.pdf)
+
+### 10/8 -- IR design, transformations, and code generation
+
+* [Slides](IRs-transforms-codegen.pdf)
+* [Expression language example code](http://github.com/CS448h/cs448h.github.com/tree/master/ir-codegen-example)
