@@ -54,3 +54,43 @@ Assignment 1 is to build a compiler for regular expressions using Lua and Terra.
 
 * [Slides](IRs-transforms-codegen.pdf)
 * [Expression language example code](http://github.com/CS448h/cs448h.github.com/tree/master/ir-codegen-example)
+
+### 10/15 -- How to read a research paper
+
+Read the following paper on Halide.
+
+Think about it critically using the web site on critical thinking as a guide.
+What are the goals of the work, what is the specific problem being solved,
+what are the assumptions behind the work,
+are there new concepts or algorithms in the paper,
+what is the proposed solution,
+what evidence is given that the solution works,
+what interpretation or inference is done in support of the conclusions,
+and finally, what are the implications and consequences of this research.
+Pat will lead a discussion of the paper in class.
+Be prepared to orally answer the above questions.
+Consult the guide for additional questions that might pertain
+to this work.
+
+* [Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, 
+Marc Levoy, Saman Amarasinghe, Frédo Durand.  
+_Decoupling Algorithms from Schedules 
+for Easy Optimization of Image Processing Pipelines_]
+(http://people.csail.mit.edu/jrk/halide12/)
+* [Concise guide to critical thinking](http://www.criticalthinking.org/ctmodel/logic-model1.htm). 
+
+### 10/20 -- Halide, Jonathan Ragan-Kelley
+
+### 10/22 -- Project Brainstorming
+
+### 10/27 -- Guest lecture: Shading Languages, Tim Foley
+
+### 10/29 -- Guest lecture: Simulation Languages, Gilbert Bernstein
+
+### 11/12 -- Initial Project Proposals 
+
+### 11/17 -- Debate
+
+### 12/3 -- Final Project Presentations
+
+### 12/8 -- Final Project Paper Due
