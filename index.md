@@ -72,11 +72,7 @@ Be prepared to orally answer the above questions.
 Consult the guide for additional questions that might pertain
 to this work.
 
-* [Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, 
-Marc Levoy, Saman Amarasinghe, Frédo Durand.  
-_Decoupling Algorithms from Schedules 
-for Easy Optimization of Image Processing Pipelines_]
-(http://people.csail.mit.edu/jrk/halide12/)
+* [Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, Marc Levoy, Saman Amarasinghe, Frédo Durand.  _Decoupling Algorithms from Schedules for Easy Optimization of Image Processing Pipelines_](http://people.csail.mit.edu/jrk/halide12/)
 * [Concise guide to critical thinking](http://www.criticalthinking.org/ctmodel/logic-model1.htm). 
 
 ### 10/20 -- Halide, Jonathan Ragan-Kelley
