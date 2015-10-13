@@ -75,6 +75,9 @@ to this work.
 * [Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, Marc Levoy, Saman Amarasinghe, Frédo Durand.  _Decoupling Algorithms from Schedules for Easy Optimization of Image Processing Pipelines_](http://people.csail.mit.edu/jrk/halide12/)
 * [Concise guide to critical thinking](http://www.criticalthinking.org/ctmodel/logic-model1.htm). 
 
+### Assignment 2 - _due 10/27_
+Assignment 2 walks you through the process of optimizing an image processing language through IR design and transformations. The  starter code is availiable [on the course github page](http://github.com/CS448H/assignment2). When you are ready to get started follow [this invite link](https://classroom.github.com/assignment-invitations/41ab15b18322a502c54d69925a70cf0b).
+
 ### 10/20 -- Halide, Jonathan Ragan-Kelley
 
 ### 10/22 -- Project Brainstorming
