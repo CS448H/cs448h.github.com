@@ -46,6 +46,9 @@ Readings:
 ### Assignment 1 - _due 10/13_
 Assignment 1 is to build a compiler for regular expressions using Lua and Terra. The starter code and assignment description is [in the course GitHub org](http://github.com/CS448H/assignment1). When you're ready to start, start the template repo for your submission by following [this invite link](https://classroom.github.com/assignment-invitations/349e75dcf83aeebb9c0fefbc62a42dbf) (you'll need to be logged into your GitHub account).
 
+#### Update: Assignment 1 reference solution
+The repository is now private, but if you're logged in as yourself on GitHub you can see the reference solution to assignment 1 as [REFregex.t](https://github.com/CS448H/assignment1/blob/master/REFregex.t).
+
 ### 10/6 -- Designing intermediate representations
 
 * [Slides](IRs.pdf)
