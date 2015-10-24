@@ -78,21 +78,16 @@ to this work.
 * [Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, Marc Levoy, Saman Amarasinghe, Frédo Durand.  _Decoupling Algorithms from Schedules for Easy Optimization of Image Processing Pipelines_](http://people.csail.mit.edu/jrk/halide12/)
 * [Concise guide to critical thinking](http://www.criticalthinking.org/ctmodel/logic-model1.htm). 
 
-### 10/20 -- Case study: Halide
-* [Slides](2015-10-20-halide.pdf)
-* [The Halide project](http://halide-lang.org)
-* The second Halide paper: [Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. _Halide: a language and compiler for optimizing parallelism, locality, and redundant computation in image processing pipelines_](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
-
-
-### 10/22 -- Final project brainstorming
-Great work on your own ideas and discussion during class! Our initial suggestions are [here](2015-10-22-project-ideas.pdf).
-
 ### Assignment 2 - _due 10/27_
 Assignment 2 walks you through the process of optimizing an image processing language through IR design and transformations. The  starter code is availiable [on the course github page](http://github.com/CS448H/assignment2). When you are ready to get started follow [this invite link](https://classroom.github.com/assignment-invitations/41ab15b18322a502c54d69925a70cf0b).
 
 ### 10/20 -- Halide, Jonathan Ragan-Kelley
+* [Slides](2015-10-20-halide.pdf)
+* [The Halide project](http://halide-lang.org)
+* The second Halide paper: [Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. _Halide: a language and compiler for optimizing parallelism, locality, and redundant computation in image processing pipelines_](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
 
-### 10/22 -- Project Brainstorming
+### 10/22 -- Final Project Brainstorming
+Great work on your own ideas and discussion during class! Our initial suggestions are [here](2015-10-22-project-ideas.pdf).
 
 ### 10/27 -- Guest lecture: Shading Languages, Tim Foley
 
