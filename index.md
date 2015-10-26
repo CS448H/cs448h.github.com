@@ -90,9 +90,11 @@ Assignment 2 walks you through the process of optimizing an image processing lan
 Great work on your own ideas and discussion during class! Our initial suggestions are [here](2015-10-22-project-ideas.pdf).
 
 ### 10/27 -- Guest lecture: Shading Languages, Tim Foley, NVIDIA
-* [Tim Foley, Pat Hanrahan. Spark: Modular, Composable Shaders for Graphics Hardware](http://graphics.stanford.edu/papers/spark/)
+* [Tim Foley, Pat Hanrahan. _Spark: Modular, Composable Shaders for Graphics Hardware_](http://graphics.stanford.edu/papers/spark/)
 
 ### 10/29 -- Guest lecture: Simulation Languages, Gilbert Bernstein
+* [Gilbert Louis Bernstein, Chinmayee Shah, Crystal Lemire, Zachary DeVito, Matthew Fisher, Philip Levis, Pat Hanrahan. _Ebb: A DSL for Physical Simulation on CPUs and GPUs_](http://arxiv.org/abs/1506.07577)
+* [Fredrik Kjolstad, Shoaib Kamil, Jonathan Ragan-Kelley, David I.W. Levin, Shinjiro Sueda, Desai Chen, Etienne Vouga, Danny M. Kaufman, Gurtej Kanwar, Wojciech Matusik, Saman Amarasinghe. _Simit: A Language for Physical Simulation_](http://dspace.mit.edu/handle/1721.1/97075)
 
 ### 11/10 -- Guest lecture: Torch, Ronan Collobert, Facebook
 
