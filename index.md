@@ -96,11 +96,19 @@ Great work on your own ideas and discussion during class! Our initial suggestion
 * [Gilbert Louis Bernstein, Chinmayee Shah, Crystal Lemire, Zachary DeVito, Matthew Fisher, Philip Levis, Pat Hanrahan. _Ebb: A DSL for Physical Simulation on CPUs and GPUs_](http://arxiv.org/abs/1506.07577)
 * [Fredrik Kjolstad, Shoaib Kamil, Jonathan Ragan-Kelley, David I.W. Levin, Shinjiro Sueda, Desai Chen, Etienne Vouga, Danny M. Kaufman, Gurtej Kanwar, Wojciech Matusik, Saman Amarasinghe. _Simit: A Language for Physical Simulation_](http://dspace.mit.edu/handle/1721.1/97075)
 
-### 11/10 -- Guest lecture: Torch, Ronan Collobert, Facebook
+### 11/3 --- Writing Fast Code, Jonathan
 
-### 11/12 -- Initial Project Proposals 
+### 11/5 --- Macros, Pat
 
-### 11/17 -- Debate
+### 11/10 --- Guest lecture: Torch, Ronan Collobert, Facebook
+
+### 11/12 --- Initial Project Proposals 
+
+### 11/17 --- Guest lecture: Quicksand, Daniel Ritchie
+
+### 11/24, 11/26 --- Thanksgiving Break
+
+### 12/1 --- How to Write a Systems Paper, Pat
 
 ### 12/3 -- Final Project Presentations
 
