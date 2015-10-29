@@ -107,6 +107,8 @@ Great work on your own ideas and discussion during class! Our initial suggestion
 
 ### 11/17 --- Guest lecture: Quicksand, Daniel Ritchie
 
+### 11/19 --- Work on projects during class
+
 ### 11/24, 11/26 --- Thanksgiving Break
 
 ### 12/1 --- How to Write a Systems Paper, Pat
