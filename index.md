@@ -90,6 +90,7 @@ Assignment 2 walks you through the process of optimizing an image processing lan
 Great work on your own ideas and discussion during class! Our initial suggestions are [here](2015-10-22-project-ideas.pdf).
 
 ### 10/27 -- Guest lecture: Shading Languages, Tim Foley, NVIDIA
+* [Slides](shading-languages-with-backup.pdf)
 * [Tim Foley, Pat Hanrahan. _Spark: Modular, Composable Shaders for Graphics Hardware_](http://graphics.stanford.edu/papers/spark/)
 
 ### 10/29 -- Guest lecture: Simulation Languages, Gilbert Bernstein
