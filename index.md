@@ -102,11 +102,11 @@ Great work on your own ideas and discussion during class! Our initial suggestion
 ### 9/24 -- Overview
 
 * [Slides](macro.pdf)
-* Example code: [calc1.py](calc1.py), [calc2.py](calc2.py)
 
 Readings:
 
-* [Chapter 7, Macros](http://proquest.safaribooksonline.com/9780132107549?uicode=stanford) in "Teach yourself Scheme in Fixnum Days" by Dorai Sitiram.
+* [Chapter 7, Macros](http://icem-www.folkwang-hochschule.de/~finnendahl/cm_kurse/doc/t-y-scheme/t-y-scheme-Z-H-8.html#%_chap_7)
+"Teach yourself Scheme in Fixnum Days" by Dorai.
 This chapter covers classic lisp macros using defmacro.
 This free online book is a good, quick introduction to scheme.
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/all.html). 
@@ -119,7 +119,7 @@ Background Readings:
 * [On Lisp](http://www.paulgraham.com/onlisp.html), Paul Graham.
 This book covers more advanced Lisp programming techniques,
 and has extensiion coverage of macros.
-* {Let of Lambda](http://letoverlambda.com/), Doug Hoyte.
+* [Let of Lambda](http://letoverlambda.com/), Doug Hoyte.
 Another book making the case that many of the programming techniques
 common in Lisp should be resurrected.
 
