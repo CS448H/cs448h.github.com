@@ -99,7 +99,36 @@ Great work on your own ideas and discussion during class! Our initial suggestion
 
 ### 11/3 --- Writing Fast Code, Jonathan
 
-### 11/5 --- Macros, Pat
+### 9/24 -- Overview
+
+* [Slides](macro.pdf)
+* Example code: [calc1.py](calc1.py), [calc2.py](calc2.py)
+
+Readings:
+
+* [Chapter 7, Macros](http://proquest.safaribooksonline.com/9780132107549?uicode=stanford) in "Teach yourself Scheme in Fixnum Days" by Dorai Sitiram.
+This chapter covers classic lisp macros using defmacro.
+This free online book is a good, quick introduction to scheme.
+* [Fear of Macros](http://www.greghendershott.com/fear-of-macros/all.html). 
+This short tome covers scheme macros.
+Read to Chapter 3 for a quick introduction to define-syntax.
+The remaining chapters cover more advanced features of scheme macros.
+
+Background Readings:
+
+* [On Lisp](http://www.paulgraham.com/onlisp.html), Paul Graham.
+This book covers more advanced Lisp programming techniques,
+and has extensiion coverage of macros.
+* {Let of Lambda](http://letoverlambda.com/), Doug Hoyte.
+Another book making the case that many of the programming techniques
+common in Lisp should be resurrected.
+
+References:
+
+* [_Macro Definitions in Lisp_](https://github.com/acarrico/ai-memo),
+Timothy Harris. Original technical memo proposing macros.
+
+
 
 ### 11/10 --- Guest lecture: Torch, Ronan Collobert, Facebook
 
