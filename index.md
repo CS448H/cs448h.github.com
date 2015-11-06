@@ -99,6 +99,8 @@ Great work on your own ideas and discussion during class! Our initial suggestion
 
 ### 11/3 --- Writing Fast Code, Jonathan
 
+* [Slides](performance.pdf)
+
 ### 9/24 -- Macros, Pat
 
 * [Slides](macro.pdf)
