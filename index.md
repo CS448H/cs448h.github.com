@@ -101,7 +101,7 @@ Great work on your own ideas and discussion during class! Our initial suggestion
 
 * [Slides](performance.pdf)
 
-### 9/24 -- Macros, Pat
+### 11/5 -- Macros, Pat
 
 * [Slides](macro.pdf)
 
@@ -121,7 +121,7 @@ Background Readings:
 * [On Lisp](http://www.paulgraham.com/onlisp.html), Paul Graham.
 This book covers more advanced Lisp programming techniques,
 and has extensiion coverage of macros.
-* [Let of Lambda](http://letoverlambda.com/), Doug Hoyte.
+* [Let over Lambda](http://letoverlambda.com/), Doug Hoyte.
 Another book making the case that many of the programming techniques
 common in Lisp should be resurrected.
 
