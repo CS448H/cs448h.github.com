@@ -1,4 +1,9 @@
-# Final projects
+---
+layout: post
+title: CS448H - Final Projects
+---
+
+# Final Projects
 
 ## Initial project proposal presentation
 On Thursday, November 12th, we will spend class giving each group a chance to present their planned project. The goal for this exercise is to give you an initial deadline to develop a concrete initial understanding of what you're working on, and a concrete plan for how you're going to pursue it.
