@@ -133,6 +133,7 @@ Timothy Harris. Original technical memo proposing macros.
 ### 11/10 --- Guest lecture: Torch, Ronan Collobert, Facebook
 
 ### 11/12 --- Initial Project Proposals 
+- [Presentation expectations](projects.html)
 
 ### 11/17 --- Guest lecture: Procedural modeling and design using probabilistic programming languages, Daniel Ritchie
 
