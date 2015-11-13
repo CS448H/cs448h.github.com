@@ -130,13 +130,17 @@ References:
 * [_Macro Definitions in Lisp_](https://github.com/acarrico/ai-memo),
 Timothy Harris. Original technical memo proposing macros.
 
-
-
 ### 11/10 --- Guest lecture: Torch, Ronan Collobert, Facebook
 
 ### 11/12 --- Initial Project Proposals 
 
-### 11/17 --- Guest lecture: Quicksand, Daniel Ritchie
+### 11/17 --- Guest lecture: Procedural modeling and design using probabilistic programming languages, Daniel Ritchie
+
+Readings:
+
+* [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/), Noah Goodman and Andreas Stuhlmuller.
+The first three chapters of this online tutorial cover WebPPL,
+a Javascript-based probabalistic programming languages. 
 
 ### 11/19 --- Work on projects during class
 
