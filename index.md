@@ -132,6 +132,9 @@ Timothy Harris. Original technical memo proposing macros.
 
 ### 11/10 --- Guest lecture: Torch, Ronan Collobert, Facebook
 
+* [Slides](http://ronan.collobert.com/torch/internals.pdf)
+* [Tutorial](http://ronan.collobert.com/torch/)
+
 ### 11/12 --- Initial Project Proposals 
 - [Presentation expectations](projects.html)
 
