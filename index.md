@@ -152,6 +152,8 @@ a Javascript-based probabalistic programming languages.
 
 ### 12/1 --- How to Write a Systems Paper, Pat
 
+* [How (and How Not) to Write a Good Systems Paper](http://msrsvc.org/roylevin/How%20(and%20How%20Not)%20to%20Write%20a%20Good%20Systems%20Paper.htm)
+
 ### 12/3 -- Final Project Presentations
 
 ### 12/8 -- Final Project Paper Due
