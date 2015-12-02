@@ -150,9 +150,12 @@ a Javascript-based probabalistic programming languages.
 
 ### 11/24, 11/26 --- Thanksgiving Break
 
-### 12/1 --- How to Write a Systems Paper, Pat
+### 12/1 --- How to Write a (Systems) Paper, Pat
+
+* [Slides](write.pdf)
 
 * [How (and How Not) to Write a Good Systems Paper](http://msrsvc.org/roylevin/How%20(and%20How%20Not)%20to%20Write%20a%20Good%20Systems%20Paper.htm)
+* [Tips for Giving Clear Talks](https://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf), Kayvon Fatahalian
 
 ### 12/3 -- Final Project Presentations
 
